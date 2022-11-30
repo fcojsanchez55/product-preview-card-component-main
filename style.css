@@ -113,6 +113,7 @@ button img{
 button a{
     text-decoration: none;
     color: var(--White);
+    font-weight: 700;
 }
 
 button:hover{
